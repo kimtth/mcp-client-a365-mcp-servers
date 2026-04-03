@@ -1,0 +1,88 @@
+{
+  "mcpServers": [
+    {
+      "mcpServerName": "mcp_MailTools",
+      "mcpServerUniqueName": "mcp_MailTools",
+      "scope": "McpServers.Mail.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_CalendarTools",
+      "mcpServerUniqueName": "mcp_CalendarTools",
+      "scope": "McpServers.Calendar.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_WordServer",
+      "mcpServerUniqueName": "mcp_WordServer",
+      "scope": "McpServers.Word.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_TeamsTools",
+      "mcpServerUniqueName": "mcp_TeamsTools",
+      "scope": "McpServers.Teams.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_OneDriveSharePointTools",
+      "mcpServerUniqueName": "mcp_OneDriveSharePointTools",
+      "scope": "McpServers.OneDriveSharePoint.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_CopilotMCP",
+      "mcpServerUniqueName": "mcp_CopilotMCP",
+      "scope": "McpServers.CopilotMCP.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_ExcelServer",
+      "mcpServerUniqueName": "mcp_ExcelServer",
+      "scope": "McpServers.Excel.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_PowerPointServer",
+      "mcpServerUniqueName": "mcp_PowerPointServer",
+      "scope": "McpServers.PowerPoint.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_SharePointListsTools",
+      "mcpServerUniqueName": "mcp_SharePointListsTools",
+      "scope": "McpServers.SharepointLists.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_FilesTools",
+      "mcpServerUniqueName": "mcp_FilesTools",
+      "scope": "McpServers.Files.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_KnowledgeTools",
+      "mcpServerUniqueName": "mcp_KnowledgeTools",
+      "scope": "McpServers.Knowledge.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_MeTools",
+      "mcpServerUniqueName": "mcp_MeTools",
+      "scope": "McpServers.Me.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_DASearchTools",
+      "mcpServerUniqueName": "mcp_DASearchTools",
+      "scope": "McpServers.DASearch.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    },
+    {
+      "mcpServerName": "mcp_DataverseTools",
+      "mcpServerUniqueName": "mcp_DataverseTools",
+      "scope": "McpServers.Dataverse.All",
+      "audience": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "agent365-bridge": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "python", "-m", "mcp_bridge"]
+    }
+  }
+}

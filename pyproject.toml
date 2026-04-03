@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcp-client-a365-mcp-servers"
+version = "0.1.0"
+description = "PySide6 GUI client for Agent 365 MCP Servers"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "azure-identity>=1.25.3",
+    "mcp>=1.26.0",
+    "openai>=2.30.0",
+    "pyjwt>=2.12.1",
+    "pyside6>=6.8.0",
+    "python-dotenv>=1.2.2",
+]
+
+[project.scripts]
+mcp-client = "mcp_client.__main__:main"
+mcp-bridge = "mcp_bridge.server:main"
+
+[tool.setuptools.packages.find]
+include = ["mcp_client*", "mcp_bridge*"]
